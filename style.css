@@ -1,0 +1,689 @@
+<!DOCTYPE html><!--[if IE]>  <html class="pdf24_ie"> <![endif]-->
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>
+		</title>
+		
+	<STYLE> 
+ .pdf24_ sup {
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
+}
+.pdf24_ sub {
+	vertical-align: baseline;
+	position: relative;
+	top: 0.4em;
+}
+.pdf24_ a:link {text-decoration:none;}
+.pdf24_ a:visited {text-decoration:none;}
+@media screen and (min-device-pixel-ratio:0), (-webkit-min-device-pixel-ratio:0), (min--moz-device-pixel-ratio: 0) {.pdf24_view{ font-size:10em; transform:scale(0.1); -moz-transform:scale(0.1); -webkit-transform:scale(0.1); -moz-transform-origin:top left; -webkit-transform-origin:top left; } }
+.pdf24_layer { }.pdf24_ie { font-size: 1pt; }
+.pdf24_ie body { font-size: 12em; }
+@media print{.pdf24_view {font-size:1em; transform:scale(1);}}
+.pdf24_grlink { position:relative;width:100%;height:100%;z-index:1000000; }
+.pdf24_01 {
+	position: absolute;
+	white-space: nowrap;
+}
+.pdf24_02 {
+	font-size: 1em;
+	line-height: 0.0em;
+	width: 49.58333em;
+	height: 70.08334em;
+	border-style: none;
+	display: block;
+	margin: 0em;
+}
+
+@supports(-ms-ime-align:auto) { .pdf24_02 {overflow: hidden;}}
+.pdf24_03 {
+	position: relative;
+	width: 49.58333em;
+}
+.pdf24_04 {
+	height: 7.008333em;
+}
+.pdf24_ie .pdf24_04 {
+	height: 70.08334em;
+}
+@font-face {
+	font-family:"GALWMQ+Calibri";
+	src:url("data:application/octet-stream;base64,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") format("woff");
+}
+.pdf24_05 {
+	font-size: 0.92em;
+	font-family: "GALWMQ+Calibri";
+	color: #000000;
+}
+.pdf24_06 {
+	line-height: 1.220703em;
+}
+.pdf24_07 {
+	letter-spacing: 0.0005em;
+}
+
+.pdf24_ie .pdf24_07 {
+	letter-spacing: 0.0077px;
+}
+.pdf24_08 {
+	letter-spacing: -0.0021em;
+}
+
+.pdf24_ie .pdf24_08 {
+	letter-spacing: -0.0309px;
+}
+.pdf24_09 {
+	letter-spacing: -0.0019em;
+}
+
+.pdf24_ie .pdf24_09 {
+	letter-spacing: -0.028px;
+}
+.pdf24_10 {
+	letter-spacing: -0.0016em;
+}
+
+.pdf24_ie .pdf24_10 {
+	letter-spacing: -0.0238px;
+}
+.pdf24_11 {
+	letter-spacing: -0.0026em;
+}
+
+.pdf24_ie .pdf24_11 {
+	letter-spacing: -0.0379px;
+}
+.pdf24_12 {
+	letter-spacing: -0.0014em;
+}
+
+.pdf24_ie .pdf24_12 {
+	letter-spacing: -0.0207px;
+}
+.pdf24_13 {
+	letter-spacing: -0.0018em;
+}
+
+.pdf24_ie .pdf24_13 {
+	letter-spacing: -0.0265px;
+}
+.pdf24_14 {
+	letter-spacing: -0.0024em;
+}
+
+.pdf24_ie .pdf24_14 {
+	letter-spacing: -0.0346px;
+}
+.pdf24_15 {
+	letter-spacing: 0em;
+}
+
+.pdf24_ie .pdf24_15 {
+	letter-spacing: 0px;
+}
+.pdf24_16 {
+	letter-spacing: -0.0004em;
+}
+
+.pdf24_ie .pdf24_16 {
+	letter-spacing: -0.0061px;
+}
+.pdf24_17 {
+	letter-spacing: -0.0007em;
+}
+
+.pdf24_ie .pdf24_17 {
+	letter-spacing: -0.0104px;
+}
+.pdf24_18 {
+	letter-spacing: -0.002em;
+}
+
+.pdf24_ie .pdf24_18 {
+	letter-spacing: -0.0293px;
+}
+.pdf24_19 {
+	letter-spacing: -0.0015em;
+}
+
+.pdf24_ie .pdf24_19 {
+	letter-spacing: -0.0215px;
+}
+.pdf24_20 {
+	letter-spacing: -0.0006em;
+}
+
+.pdf24_ie .pdf24_20 {
+	letter-spacing: -0.0085px;
+}
+.pdf24_21 {
+	letter-spacing: -0.0012em;
+}
+
+.pdf24_ie .pdf24_21 {
+	letter-spacing: -0.0182px;
+}
+.pdf24_22 {
+	letter-spacing: -0.0022em;
+}
+
+.pdf24_ie .pdf24_22 {
+	letter-spacing: -0.0328px;
+}
+.pdf24_23 {
+	letter-spacing: -0.0031em;
+}
+
+.pdf24_ie .pdf24_23 {
+	letter-spacing: -0.0461px;
+}
+.pdf24_24 {
+	letter-spacing: -0.0034em;
+}
+
+.pdf24_ie .pdf24_24 {
+	letter-spacing: -0.0499px;
+}
+.pdf24_25 {
+	letter-spacing: -0.0017em;
+}
+
+.pdf24_ie .pdf24_25 {
+	letter-spacing: -0.025px;
+}
+.pdf24_26 {
+	letter-spacing: -0.0013em;
+}
+
+.pdf24_ie .pdf24_26 {
+	letter-spacing: -0.0186px;
+}
+.pdf24_27 {
+	letter-spacing: -0.0028em;
+}
+
+.pdf24_ie .pdf24_27 {
+	letter-spacing: -0.0418px;
+}
+.pdf24_28 {
+	letter-spacing: -0.0008em;
+}
+
+.pdf24_ie .pdf24_28 {
+	letter-spacing: -0.0121px;
+}
+.pdf24_29 {
+	letter-spacing: -0.0023em;
+}
+
+.pdf24_ie .pdf24_29 {
+	letter-spacing: -0.0339px;
+}
+.pdf24_30 {
+	letter-spacing: -0.0011em;
+}
+
+.pdf24_ie .pdf24_30 {
+	letter-spacing: -0.0167px;
+}
+.pdf24_31 {
+	letter-spacing: 0.0016em;
+}
+
+.pdf24_ie .pdf24_31 {
+	letter-spacing: 0.0229px;
+}
+.pdf24_32 {
+	letter-spacing: -0.001em;
+}
+
+.pdf24_ie .pdf24_32 {
+	letter-spacing: -0.0144px;
+}
+.pdf24_33 {
+	letter-spacing: -0.0025em;
+}
+
+.pdf24_ie .pdf24_33 {
+	letter-spacing: -0.0362px;
+}
+.pdf24_34 {
+	letter-spacing: -0.0003em;
+}
+
+.pdf24_ie .pdf24_34 {
+	letter-spacing: -0.0038px;
+}
+.pdf24_35 {
+	letter-spacing: 0.0004em;
+}
+
+.pdf24_ie .pdf24_35 {
+	letter-spacing: 0.0065px;
+}
+.pdf24_36 {
+	letter-spacing: -0.0002em;
+}
+
+.pdf24_ie .pdf24_36 {
+	letter-spacing: -0.0025px;
+}
+.pdf24_37 {
+	letter-spacing: 0.0009em;
+}
+
+.pdf24_ie .pdf24_37 {
+	letter-spacing: 0.0139px;
+}
+.pdf24_38 {
+	letter-spacing: 0.0018em;
+}
+
+.pdf24_ie .pdf24_38 {
+	letter-spacing: 0.0271px;
+}
+.pdf24_39 {
+	letter-spacing: 0.0013em;
+}
+
+.pdf24_ie .pdf24_39 {
+	letter-spacing: 0.0189px;
+}
+.pdf24_40 {
+	letter-spacing: -0.0009em;
+}
+
+.pdf24_ie .pdf24_40 {
+	letter-spacing: -0.0139px;
+}
+.pdf24_41 {
+	letter-spacing: 0.0003em;
+}
+
+.pdf24_ie .pdf24_41 {
+	letter-spacing: 0.0048px;
+}
+.pdf24_42 {
+	letter-spacing: -0.0038em;
+}
+
+.pdf24_ie .pdf24_42 {
+	letter-spacing: -0.0562px;
+}
+.pdf24_43 {
+	letter-spacing: -0.0064em;
+}
+
+.pdf24_ie .pdf24_43 {
+	letter-spacing: -0.094px;
+}
+
+ body > div {
+	box-shadow: 0 0 5px rgba(0,0,0,0.3) !important;
+	margin: 20px auto !important;
+}
+
+</STYLE> 
+</head>
+	<body>
+		<div id="page_0" class="pdf24_ pdf24_02">
+			<div class="pdf24_view">
+				<div class="pdf24_03 pdf24_04">
+					<div class="pdf24_01" style="left:7.092em;top:4.6374em;"><span class="pdf24_05 pdf24_06 pdf24_07" style="word-spacing:-0.0081em;">:root { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:6.519em;"><span class="pdf24_05 pdf24_06 pdf24_08" style="word-spacing:0.0005em;">--main-blue: #4682B4; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:8.389em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:0.0002em;">--secondary-blue: #87CEEB; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:10.269em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:-0.0014em;">--accent-blue: #00BFFF; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:12.139em;"><span class="pdf24_05 pdf24_06 pdf24_11" style="word-spacing:0.0085em;">--dark-blue: #4169E1; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:14.019em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:-0.0019em;">--text-color: #333; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:15.889em;"><span class="pdf24_05 pdf24_06 pdf24_12" style="word-spacing:-0.0028em;">--light-text-color: #fff; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:17.759em;"><span class="pdf24_05 pdf24_06 pdf24_13" style="word-spacing:-0.0041em;">--background-color: #f0f8ff; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:19.6415em;"><span class="pdf24_05 pdf24_06 pdf24_13" style="word-spacing:-0.0031em;">--form-background: #ffffff; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:21.5115em;"><span class="pdf24_05 pdf24_06 pdf24_14" style="word-spacing:0.0081em;">--border-color: #b0c4de; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:23.3915em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:-0.0028em;">--button-hover-bg: #5a9bd7; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:25.2615em;"><span class="pdf24_05 pdf24_06 pdf24_13" style="word-spacing:-0.002em;">--font-size-base: 16px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:27.1415em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:-0.0019em;">--font-size-large: 24px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:29.0115em;"><span class="pdf24_05 pdf24_06 pdf24_13" style="word-spacing:-0.0001em;">--font-size-xlarge: 36px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:30.8815em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:34.6332em;"><span class="pdf24_05 pdf24_06 pdf24_15" style="word-spacing:0.0039em;">* { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:36.5132em;"><span class="pdf24_05 pdf24_06 pdf24_16" style="word-spacing:-0.0048em;">margin: 0; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:38.3832em;"><span class="pdf24_05 pdf24_06 pdf24_08" style="word-spacing:-0.0015em;">padding: 0; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:40.2632em;"><span class="pdf24_05 pdf24_06 pdf24_08" style="word-spacing:0.0076em;">box-sizing: border-box; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:42.1332em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:45.8857em;"><span class="pdf24_05 pdf24_06 pdf24_17" style="word-spacing:0.0047em;">body { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:47.7557em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:-0.0005em;">font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:49.6357em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:0.0071em;">font-size: var(--font-size-base); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:51.5057em;"><span class="pdf24_05 pdf24_06 pdf24_13" style="word-spacing:-0.0021em;">color: var(--text-color); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:53.3757em;"><span class="pdf24_05 pdf24_06 pdf24_18" style="word-spacing:0.0073em;">background-color: var(--background-color); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:55.2557em;"><span class="pdf24_05 pdf24_06 pdf24_19" style="word-spacing:-0.0027em;">line-height: 1.6; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:57.1257em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:60.8774em;"><span class="pdf24_05 pdf24_06 pdf24_20" style="word-spacing:0.0015em;">header { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:62.7574em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:0.0071em;">background-color: var(--main-blue); &nbsp;</span></div>
+				</div>
+			</div>
+		</div>
+		<div id="page_1" class="pdf24_ pdf24_02">
+			<div class="pdf24_view">
+				<div class="pdf24_03 pdf24_04">
+					<div class="pdf24_01" style="left:7.932em;top:4.6374em;"><span class="pdf24_05 pdf24_06 pdf24_21" style="word-spacing:-0.0032em;">color: var(--light-text-color); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:6.519em;"><span class="pdf24_05 pdf24_06 pdf24_18" style="word-spacing:-0.0035em;">padding: 20px 0; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:8.389em;"><span class="pdf24_05 pdf24_06 pdf24_12" style="word-spacing:-0.0039em;">text-align: center; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:10.269em;"><span class="pdf24_05 pdf24_06 pdf24_22" style="word-spacing:0.0078em;">position: sticky; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:12.139em;"><span class="pdf24_05 pdf24_06 pdf24_23" style="word-spacing:-0.0004em;">top: 0; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:14.019em;"><span class="pdf24_05 pdf24_06 pdf24_14" style="word-spacing:0.0081em;">z-index: 1000; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:15.889em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:0.0007em;">box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:17.759em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:21.5115em;"><span class="pdf24_05 pdf24_06 pdf24_24" style="word-spacing:0.0099em;">h1 { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:23.3915em;"><span class="pdf24_05 pdf24_06 pdf24_25" style="word-spacing:0.0067em;">font-size: var(--font-size-xlarge); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:25.2615em;"><span class="pdf24_05 pdf24_06 pdf24_25" style="word-spacing:0.0067em;">margin-bottom: 15px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:27.1415em;"><span class="pdf24_05 pdf24_06 pdf24_12" style="word-spacing:-0.0057em;">animation: pulse-blue 2s infinite; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:29.0115em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:32.7632em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:0.0017em;">@keyframes pulse-blue { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:34.6332em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:-0.0007em;">0% { transform: scale(1); } &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:36.5132em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:0.0046em;">50% { transform: scale(1.05); } &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:38.3832em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:-0.0006em;">100% { transform: scale(1); } &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:40.2632em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:44.0032em;"><span class="pdf24_05 pdf24_06 pdf24_26" style="word-spacing:0.0044em;">nav ul { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:45.8857em;"><span class="pdf24_05 pdf24_06 pdf24_27" style="word-spacing:0.011em;">list-style: none; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:47.7557em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:51.5057em;"><span class="pdf24_05 pdf24_06 pdf24_28" style="word-spacing:0.0017em;">nav ul li { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:53.3757em;"><span class="pdf24_05 pdf24_06 pdf24_29" style="word-spacing:0.0079em;">display: inline-block; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:55.2557em;"><span class="pdf24_05 pdf24_06 pdf24_21" style="word-spacing:-0.0033em;">margin: 0 20px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:57.1257em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:60.8774em;"><span class="pdf24_05 pdf24_06 pdf24_28" style="word-spacing:-0.0001em;">nav ul li a { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:62.7574em;"><span class="pdf24_05 pdf24_06 pdf24_21" style="word-spacing:-0.0032em;">color: var(--light-text-color); &nbsp;</span></div>
+				</div>
+			</div>
+		</div>
+		<div id="page_2" class="pdf24_ pdf24_02">
+			<div class="pdf24_view">
+				<div class="pdf24_03 pdf24_04">
+					<div class="pdf24_01" style="left:7.932em;top:4.6374em;"><span class="pdf24_05 pdf24_06 pdf24_29" style="word-spacing:0.0079em;">text-decoration: none; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:6.519em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:0.0071em;">font-size: var(--font-size-large); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:8.389em;"><span class="pdf24_05 pdf24_06 pdf24_25" style="word-spacing:0.0007em;">transition: color 0.3s ease, text-shadow 0.3s ease; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:10.269em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:14.019em;"><span class="pdf24_05 pdf24_06 pdf24_30" style="word-spacing:0.0023em;">nav ul li a:hover, &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:15.889em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:0.0031em;">nav ul li a:focus { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:17.759em;"><span class="pdf24_05 pdf24_06 pdf24_25" style="word-spacing:-0.0022em;">color: var(--secondary-blue); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:19.6415em;"><span class="pdf24_05 pdf24_06 pdf24_21" style="word-spacing:-0.0036em;">text-shadow: 0 0 8px rgba(255, 255, 255, 0.5); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:21.5115em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:25.2615em;"><span class="pdf24_05 pdf24_06 pdf24_31" style="word-spacing:-0.0096em;">main { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:27.1415em;"><span class="pdf24_05 pdf24_06 pdf24_19" style="word-spacing:-0.0027em;">max-width: 1200px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:29.0115em;"><span class="pdf24_05 pdf24_06 pdf24_13" style="word-spacing:0.0021em;">margin: 40px auto; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:30.8815em;"><span class="pdf24_05 pdf24_06 pdf24_27" style="word-spacing:0.0044em;">padding: 0 20px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:32.7632em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:36.5132em;"><span class="pdf24_05 pdf24_06 pdf24_20" style="word-spacing:-0.0024em;">section { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:38.3832em;"><span class="pdf24_05 pdf24_06 pdf24_25" style="word-spacing:0.0067em;">margin-bottom: 60px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:40.2632em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:-0.0029em;">padding-bottom: 40px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:42.1332em;"><span class="pdf24_05 pdf24_06 pdf24_12" style="word-spacing:-0.003em;">border-bottom: 2px solid var(--secondary-blue); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:44.0032em;"><span class="pdf24_05 pdf24_06 pdf24_12" style="word-spacing:-0.0039em;">text-align: center; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:45.8857em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:49.6357em;"><span class="pdf24_05 pdf24_06 pdf24_32" style="word-spacing:-0.0035em;">section:last-child { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:51.5057em;"><span class="pdf24_05 pdf24_06 pdf24_33" style="word-spacing:0.0083em;">border-bottom: none; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:53.3757em;"><span class="pdf24_05 pdf24_06 pdf24_18" style="word-spacing:0.0074em;">margin-bottom: 0; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:55.2557em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:59.0057em;"><span class="pdf24_05 pdf24_06 pdf24_24" style="word-spacing:0.0099em;">h2 { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:60.8774em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:0.0071em;">font-size: var(--font-size-large); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:62.7574em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:-0.0025em;">color: var(--dark-blue); &nbsp;</span></div>
+				</div>
+			</div>
+		</div>
+		<div id="page_3" class="pdf24_ pdf24_02">
+			<div class="pdf24_view">
+				<div class="pdf24_03 pdf24_04">
+					<div class="pdf24_01" style="left:7.922em;top:4.6374em;"><span class="pdf24_05 pdf24_06 pdf24_25" style="word-spacing:0.0067em;">margin-bottom: 30px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:6.519em;"><span class="pdf24_05 pdf24_06 pdf24_08" style="word-spacing:0.0076em;">position: relative; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:8.389em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:-0.0029em;">padding-bottom: 10px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:10.269em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:14.019em;"><span class="pdf24_05 pdf24_06 pdf24_34" style="word-spacing:-0.0092em;">h2::after { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:15.889em;"><span class="pdf24_05 pdf24_06 pdf24_14" style="word-spacing:0.0082em;">content: ''; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:17.759em;"><span class="pdf24_05 pdf24_06 pdf24_14" style="word-spacing:0.0082em;">position: absolute; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:19.6415em;"><span class="pdf24_05 pdf24_06 pdf24_27" style="word-spacing:0.001em;">left: 50%; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:21.5115em;"><span class="pdf24_05 pdf24_06 pdf24_08" style="word-spacing:-0.0015em;">bottom: 0; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:23.3915em;"><span class="pdf24_05 pdf24_06 pdf24_25" style="word-spacing:-0.0033em;">transform: translateX(-50%); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:25.2615em;"><span class="pdf24_05 pdf24_06 pdf24_30" style="word-spacing:-0.0034em;">width: 80px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:27.1415em;"><span class="pdf24_05 pdf24_06 pdf24_18" style="word-spacing:-0.0017em;">height: 3px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:29.0115em;"><span class="pdf24_05 pdf24_06 pdf24_18" style="word-spacing:0.0073em;">background-color: var(--accent-blue); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:30.8815em;"><span class="pdf24_05 pdf24_06 pdf24_08" style="word-spacing:-0.0015em;">border-radius: 2px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:32.7632em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:36.5132em;"><span class="pdf24_05 pdf24_06 pdf24_15" style="word-spacing:-0.0035em;">p { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:38.3832em;"><span class="pdf24_05 pdf24_06 pdf24_25" style="word-spacing:0.0067em;">margin-bottom: 20px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:40.2632em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:44.0032em;"><span class="pdf24_05 pdf24_06 pdf24_07" style="word-spacing:-0.0048em;">strong { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:45.8857em;"><span class="pdf24_05 pdf24_06 pdf24_14" style="word-spacing:0.0101em;">font-weight: bold; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:47.7557em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:-0.0025em;">color: var(--dark-blue); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:49.6357em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:53.3757em;"><span class="pdf24_05 pdf24_06 pdf24_35" style="word-spacing:-0.0038em;">em { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:55.2557em;"><span class="pdf24_05 pdf24_06 pdf24_29" style="word-spacing:0.0079em;">font-style: italic; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:57.1257em;"><span class="pdf24_05 pdf24_06 pdf24_12" style="word-spacing:-0.0028em;">color: var(--main-blue); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:59.0057em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:62.7574em;"><span class="pdf24_05 pdf24_06 pdf24_24" style="word-spacing:0.0072em;">ul { &nbsp;</span></div>
+				</div>
+			</div>
+		</div>
+		<div id="page_4" class="pdf24_ pdf24_02">
+			<div class="pdf24_view">
+				<div class="pdf24_03 pdf24_04">
+					<div class="pdf24_01" style="left:7.922em;top:4.6374em;"><span class="pdf24_05 pdf24_06 pdf24_25" style="word-spacing:0.0067em;">margin-bottom: 20px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:6.519em;"><span class="pdf24_05 pdf24_06 pdf24_25" style="word-spacing:-0.0024em;">padding-left: 30px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:8.389em;"><span class="pdf24_05 pdf24_06 pdf24_19" style="word-spacing:-0.0036em;">text-align: left; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:10.269em;"><span class="pdf24_05 pdf24_06 pdf24_29" style="word-spacing:0.0079em;">display: inline-block; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:12.139em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:15.889em;"><span class="pdf24_05 pdf24_06 pdf24_07" style="word-spacing:-0.0036em;">li { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:17.759em;"><span class="pdf24_05 pdf24_06 pdf24_25" style="word-spacing:0.0067em;">margin-bottom: 10px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:19.6415em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:23.3915em;"><span class="pdf24_05 pdf24_06 pdf24_15" style="word-spacing:-0.0001em;">a { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:25.2615em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:-0.0024em;">color: var(--accent-blue); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:27.1415em;"><span class="pdf24_05 pdf24_06 pdf24_29" style="word-spacing:0.0079em;">text-decoration: none; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:29.0115em;"><span class="pdf24_05 pdf24_06 pdf24_19" style="word-spacing:-0.0008em;">transition: color 0.3s ease, text-decoration 0.3s ease; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:30.8815em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:34.6332em;"><span class="pdf24_05 pdf24_06 pdf24_36">a:hover, &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:36.5132em;"><span class="pdf24_05 pdf24_06 pdf24_37" style="word-spacing:-0.0151em;">a:focus { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:38.3832em;"><span class="pdf24_05 pdf24_06 pdf24_25" style="word-spacing:-0.0023em;">color: var(--button-hover-bg); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:40.2632em;"><span class="pdf24_05 pdf24_06 pdf24_29" style="word-spacing:0.008em;">text-decoration: underline; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:42.1332em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:45.8857em;"><span class="pdf24_05 pdf24_06 pdf24_38" style="word-spacing:-0.0075em;">img { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:47.7557em;"><span class="pdf24_05 pdf24_06 pdf24_27" style="word-spacing:0.009em;">display: block; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:49.6357em;"><span class="pdf24_05 pdf24_06 pdf24_19" style="word-spacing:-0.0027em;">max-width: 100%; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:51.5057em;"><span class="pdf24_05 pdf24_06 pdf24_14" style="word-spacing:0.0082em;">height: auto; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:53.3757em;"><span class="pdf24_05 pdf24_06 pdf24_13" style="word-spacing:0.0021em;">margin: 20px auto; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:55.2557em;"><span class="pdf24_05 pdf24_06 pdf24_30" style="word-spacing:-0.0068em;">border: 4px solid var(--secondary-blue); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:57.1257em;"><span class="pdf24_05 pdf24_06 pdf24_13" style="word-spacing:-0.002em;">border-radius: 10px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:59.0057em;"><span class="pdf24_05 pdf24_06 pdf24_21" style="word-spacing:-0.0049em;">box-shadow: 0 6px 15px rgba(70, 130, 180, 0.3); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:60.8774em;"><span class="pdf24_05 pdf24_06 pdf24_18" style="word-spacing:0.0032em;">transition: transform 0.3s ease, box-shadow 0.3s ease; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:62.7574em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+				</div>
+			</div>
+		</div>
+		<div id="page_5" class="pdf24_ pdf24_02">
+			<div class="pdf24_view">
+				<div class="pdf24_03 pdf24_04">
+					<div class="pdf24_01" style="left:7.092em;top:6.519em;"><span class="pdf24_05 pdf24_06 pdf24_12" style="word-spacing:0.0052em;">img:hover { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:8.389em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:-0.0034em;">transform: translateY(-5px); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:10.269em;"><span class="pdf24_05 pdf24_06 pdf24_18" style="word-spacing:-0.0001em;">box-shadow: 0 10px 20px rgba(70, 130, 180, 0.4); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:12.139em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:15.889em;"><span class="pdf24_05 pdf24_06 pdf24_17" style="word-spacing:-0.0051em;">.services-grid { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:17.759em;"><span class="pdf24_05 pdf24_06 pdf24_22" style="word-spacing:0.0077em;">display: grid; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:19.6415em;"><span class="pdf24_05 pdf24_06 pdf24_25" style="word-spacing:-0.0012em;">grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:21.5115em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:-0.0029em;">gap: 30px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:23.3915em;"><span class="pdf24_05 pdf24_06 pdf24_12" style="word-spacing:-0.0028em;">margin-top: 30px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:25.2615em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:29.0115em;"><span class="pdf24_05 pdf24_06 pdf24_21" style="word-spacing:0.0065em;">.service-item { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:30.8815em;"><span class="pdf24_05 pdf24_06 pdf24_18" style="word-spacing:0.0074em;">background-color: var(--form-background); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:32.7632em;"><span class="pdf24_05 pdf24_06 pdf24_14" style="word-spacing:-0.0009em;">padding: 25px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:34.6332em;"><span class="pdf24_05 pdf24_06 pdf24_13" style="word-spacing:-0.002em;">border-radius: 10px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:36.5132em;"><span class="pdf24_05 pdf24_06 pdf24_08" style="word-spacing:0.001em;">box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:38.3832em;"><span class="pdf24_05 pdf24_06 pdf24_32" style="word-spacing:-0.0072em;">border: 1px solid var(--border-color); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:40.2632em;"><span class="pdf24_05 pdf24_06 pdf24_18" style="word-spacing:0.0032em;">transition: transform 0.3s ease, box-shadow 0.3s ease; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:42.1332em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:45.8857em;"><span class="pdf24_05 pdf24_06 pdf24_21" style="word-spacing:0.0047em;">.service-item:hover { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:47.7557em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:-0.0034em;">transform: translateY(-8px); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:49.6357em;"><span class="pdf24_05 pdf24_06 pdf24_08" style="word-spacing:0.001em;">box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:51.5057em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:55.2557em;"><span class="pdf24_05 pdf24_06 pdf24_08" style="word-spacing:0.0077em;">.service-item h3 { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:57.1257em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:-0.0025em;">color: var(--dark-blue); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:59.0057em;"><span class="pdf24_05 pdf24_06 pdf24_25" style="word-spacing:0.0067em;">margin-bottom: 15px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:60.8774em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:0.0071em;">font-size: var(--font-size-large); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:62.7574em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+				</div>
+			</div>
+		</div>
+		<div id="page_6" class="pdf24_ pdf24_02">
+			<div class="pdf24_view">
+				<div class="pdf24_03 pdf24_04">
+					<div class="pdf24_01" style="left:7.092em;top:6.519em;"><span class="pdf24_05 pdf24_06 pdf24_12" style="word-spacing:0.003em;">.service-item img { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:8.389em;"><span class="pdf24_05 pdf24_06 pdf24_12" style="word-spacing:-0.0028em;">max-width: 80px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:10.269em;"><span class="pdf24_05 pdf24_06 pdf24_14" style="word-spacing:0.0082em;">height: auto; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:12.139em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:0.0013em;">margin: 15px auto 0; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:14.019em;"><span class="pdf24_05 pdf24_06 pdf24_08" style="word-spacing:-0.0024em;">border: none; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:15.889em;"><span class="pdf24_05 pdf24_06 pdf24_29" style="word-spacing:-0.0001em;">box-shadow: none; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:17.759em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:21.5115em;"><span class="pdf24_05 pdf24_06 pdf24_39" style="word-spacing:-0.0095em;">form { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:23.3915em;"><span class="pdf24_05 pdf24_06 pdf24_18" style="word-spacing:0.0074em;">background-color: var(--form-background); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:25.2615em;"><span class="pdf24_05 pdf24_06 pdf24_14" style="word-spacing:-0.0009em;">padding: 40px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:27.1415em;"><span class="pdf24_05 pdf24_06 pdf24_13" style="word-spacing:-0.002em;">border-radius: 12px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:29.0115em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:0.0007em;">box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:30.8815em;"><span class="pdf24_05 pdf24_06 pdf24_25" style="word-spacing:-0.0023em;">max-width: 600px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:32.7632em;"><span class="pdf24_05 pdf24_06 pdf24_13" style="word-spacing:0.0021em;">margin: 30px auto; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:34.6332em;"><span class="pdf24_05 pdf24_06 pdf24_32" style="word-spacing:-0.0072em;">border: 1px solid var(--border-color); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:36.5132em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:40.2632em;"><span class="pdf24_05 pdf24_06 pdf24_32" style="word-spacing:-0.0016em;">.form-group { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:42.1332em;"><span class="pdf24_05 pdf24_06 pdf24_25" style="word-spacing:0.0067em;">margin-bottom: 25px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:44.0032em;"><span class="pdf24_05 pdf24_06 pdf24_19" style="word-spacing:-0.0036em;">text-align: left; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:45.8857em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:49.6357em;"><span class="pdf24_05 pdf24_06 pdf24_12" style="word-spacing:0.0032em;">label { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:51.5057em;"><span class="pdf24_05 pdf24_06 pdf24_27" style="word-spacing:0.009em;">display: block; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:53.3757em;"><span class="pdf24_05 pdf24_06 pdf24_25" style="word-spacing:0.0067em;">margin-bottom: 10px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:55.2557em;"><span class="pdf24_05 pdf24_06 pdf24_14" style="word-spacing:0.0101em;">font-weight: bold; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:57.1257em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:-0.0025em;">color: var(--dark-blue); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:59.0057em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:62.7574em;"><span class="pdf24_05 pdf24_06 pdf24_30">input[type="text"], &nbsp;</span></div>
+				</div>
+			</div>
+		</div>
+		<div id="page_7" class="pdf24_ pdf24_02">
+			<div class="pdf24_view">
+				<div class="pdf24_03 pdf24_04">
+					<div class="pdf24_01" style="left:7.092em;top:4.6374em;"><span class="pdf24_05 pdf24_06 pdf24_21">input[type="email"], &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:6.519em;"><span class="pdf24_05 pdf24_06 pdf24_28" style="word-spacing:0.0046em;">textarea { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:8.389em;"><span class="pdf24_05 pdf24_06 pdf24_12" style="word-spacing:-0.0029em;">width: 100%; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:10.269em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:-0.0043em;">padding: 12px 15px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:12.139em;"><span class="pdf24_05 pdf24_06 pdf24_32" style="word-spacing:-0.0072em;">border: 2px solid var(--border-color); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:14.019em;"><span class="pdf24_05 pdf24_06 pdf24_08" style="word-spacing:-0.0015em;">border-radius: 6px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:15.889em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:0.0071em;">font-size: var(--font-size-base); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:17.759em;"><span class="pdf24_05 pdf24_06 pdf24_08" style="word-spacing:0.0076em;">box-sizing: border-box; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:19.6415em;"><span class="pdf24_05 pdf24_06 pdf24_26" style="word-spacing:-0.0043em;">transition: border-color 0.3s ease, box-shadow 0.3s ease; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:21.5115em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:25.2615em;"><span class="pdf24_05 pdf24_06 pdf24_30">input[type="text"]:focus, &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:27.1415em;"><span class="pdf24_05 pdf24_06 pdf24_30">input[type="email"]:focus, &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:29.0115em;"><span class="pdf24_05 pdf24_06 pdf24_17" style="word-spacing:-0.0118em;">textarea:focus { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:30.8815em;"><span class="pdf24_05 pdf24_06 pdf24_13" style="word-spacing:-0.002em;">border-color: var(--main-blue); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:32.7632em;"><span class="pdf24_05 pdf24_06 pdf24_32" style="word-spacing:-0.0026em;">outline: none; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:34.6332em;"><span class="pdf24_05 pdf24_06 pdf24_26" style="word-spacing:-0.0035em;">box-shadow: 0 0 0 4px rgba(70, 130, 180, 0.3); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:36.5132em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:40.2632em;"><span class="pdf24_05 pdf24_06 pdf24_28" style="word-spacing:0.0046em;">textarea { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:42.1332em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:-0.0009em;">resize: vertical; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:44.0032em;"><span class="pdf24_05 pdf24_06 pdf24_12" style="word-spacing:-0.0018em;">min-height: 120px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:45.8857em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:49.6357em;"><span class="pdf24_05 pdf24_06 pdf24_40" style="word-spacing:-0.0118em;">button[type="submit"] { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:51.5057em;"><span class="pdf24_05 pdf24_06 pdf24_18" style="word-spacing:0.0073em;">background-color: var(--accent-blue); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:53.3757em;"><span class="pdf24_05 pdf24_06 pdf24_21" style="word-spacing:-0.0032em;">color: var(--light-text-color); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:55.2557em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:-0.0043em;">padding: 14px 30px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:57.1257em;"><span class="pdf24_05 pdf24_06 pdf24_22" style="word-spacing:-0.0013em;">border: none; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:59.0057em;"><span class="pdf24_05 pdf24_06 pdf24_08" style="word-spacing:-0.0015em;">border-radius: 6px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:60.8774em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:0.0071em;">font-size: var(--font-size-large); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:62.7574em;"><span class="pdf24_05 pdf24_06 pdf24_14" style="word-spacing:0.0082em;">cursor: pointer; &nbsp;</span></div>
+				</div>
+			</div>
+		</div>
+		<div id="page_8" class="pdf24_ pdf24_02">
+			<div class="pdf24_view">
+				<div class="pdf24_03 pdf24_04">
+					<div class="pdf24_01" style="left:7.932em;top:4.6374em;"><span class="pdf24_05 pdf24_06 pdf24_19" style="word-spacing:-0.0004em;">transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:6.519em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:-0.0006em;">box-shadow: 0 4px 10px rgba(0, 191, 255, 0.4); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:8.389em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:12.139em;"><span class="pdf24_05 pdf24_06 pdf24_10">button[type="submit"]:hover, &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:14.019em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:0.0036em;">button[type="submit"]:focus { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:15.889em;"><span class="pdf24_05 pdf24_06 pdf24_13" style="word-spacing:0.0069em;">background-color: var(--button-hover-bg); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:17.759em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:-0.0034em;">transform: translateY(-3px); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:19.6415em;"><span class="pdf24_05 pdf24_06 pdf24_09" style="word-spacing:-0.0006em;">box-shadow: 0 6px 15px rgba(0, 191, 255, 0.5); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:21.5115em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:25.2615em;"><span class="pdf24_05 pdf24_06 pdf24_41" style="word-spacing:-0.0104em;">footer { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:27.1415em;"><span class="pdf24_05 pdf24_06 pdf24_18" style="word-spacing:0.0073em;">background-color: var(--dark-blue); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:29.0115em;"><span class="pdf24_05 pdf24_06 pdf24_21" style="word-spacing:-0.0032em;">color: var(--light-text-color); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:30.8815em;"><span class="pdf24_05 pdf24_06 pdf24_12" style="word-spacing:-0.0039em;">text-align: center; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:32.7632em;"><span class="pdf24_05 pdf24_06 pdf24_18" style="word-spacing:-0.0035em;">padding: 25px 0; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.922em;top:34.6332em;"><span class="pdf24_05 pdf24_06 pdf24_12" style="word-spacing:-0.0028em;">margin-top: 60px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:36.5132em;"><span class="pdf24_05 pdf24_06 pdf24_22" style="word-spacing:0.0078em;">font-size: 0.9em; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:38.3832em;"><span class="pdf24_05 pdf24_06 pdf24_21" style="word-spacing:-0.003em;">box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:40.2632em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:44.0032em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:0.0011em;">@media (max-width: 768px) { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:45.8857em;"><span class="pdf24_05 pdf24_06 pdf24_24" style="word-spacing:-0.0001em;">h1 { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:8.7617em;top:47.7557em;"><span class="pdf24_05 pdf24_06 pdf24_21" style="word-spacing:-0.0033em;">font-size: var(--font-size-large); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:49.6357em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:51.5057em;"><span class="pdf24_05 pdf24_06 pdf24_42" style="word-spacing:0.008em;">nav ul li { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:8.7617em;top:53.3757em;"><span class="pdf24_05 pdf24_06 pdf24_27" style="word-spacing:0.009em;">display: block; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:8.7517em;top:55.2557em;"><span class="pdf24_05 pdf24_06 pdf24_32" style="word-spacing:-0.0044em;">margin: 10px 0; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:57.1257em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:59.0057em;"><span class="pdf24_05 pdf24_06 pdf24_19" style="word-spacing:-0.0034em;">.services-grid { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:8.7617em;top:60.8774em;"><span class="pdf24_05 pdf24_06 pdf24_19" style="word-spacing:-0.0015em;">grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:62.7574em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+				</div>
+			</div>
+		</div>
+		<div id="page_9" class="pdf24_ pdf24_02">
+			<div class="pdf24_view">
+				<div class="pdf24_03 pdf24_04">
+					<div class="pdf24_01" style="left:7.932em;top:4.6374em;"><span class="pdf24_05 pdf24_06 pdf24_43" style="word-spacing:0.0169em;">form { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:8.7617em;top:6.519em;"><span class="pdf24_05 pdf24_06 pdf24_14" style="word-spacing:-0.0009em;">padding: 30px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:8.389em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:10.269em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:-0.0085em;">button[type="submit"] { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:8.7617em;top:12.139em;"><span class="pdf24_05 pdf24_06 pdf24_21" style="word-spacing:-0.0033em;">font-size: var(--font-size-large); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:14.019em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:15.889em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:19.6415em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:0.0011em;">@media (max-width: 480px) { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:21.5115em;"><span class="pdf24_05 pdf24_06 pdf24_24" style="word-spacing:-0.0001em;">h1 { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:8.7617em;top:23.3915em;"><span class="pdf24_05 pdf24_06 pdf24_21" style="word-spacing:-0.0033em;">font-size: var(--font-size-large); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:25.2615em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:27.1415em;"><span class="pdf24_05 pdf24_06 pdf24_24" style="word-spacing:-0.0001em;">h2 { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:8.7617em;top:29.0115em;"><span class="pdf24_05 pdf24_06 pdf24_21" style="word-spacing:-0.0033em;">font-size: var(--font-size-base); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:8.7517em;top:30.8815em;"><span class="pdf24_05 pdf24_06 pdf24_22" style="word-spacing:0.0077em;">margin-bottom: 20px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:32.7632em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:34.6332em;"><span class="pdf24_05 pdf24_06 pdf24_42" style="word-spacing:0.0057em;">nav ul li a { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:8.7617em;top:36.5132em;"><span class="pdf24_05 pdf24_06 pdf24_21" style="word-spacing:-0.0033em;">font-size: var(--font-size-base); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:38.3832em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:40.2632em;"><span class="pdf24_05 pdf24_06 pdf24_14" style="word-spacing:0.0013em;">section { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:8.7517em;top:42.1332em;"><span class="pdf24_05 pdf24_06 pdf24_22" style="word-spacing:0.0077em;">margin-bottom: 40px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:8.7617em;top:44.0032em;"><span class="pdf24_05 pdf24_06 pdf24_14" style="word-spacing:-0.0019em;">padding-bottom: 20px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:45.8857em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:47.7557em;"><span class="pdf24_05 pdf24_06 pdf24_19" style="word-spacing:-0.0034em;">.services-grid { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:8.7617em;top:49.6357em;"><span class="pdf24_05 pdf24_06 pdf24_22" style="word-spacing:0.0078em;">grid-template-columns: 1fr; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:51.5057em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:53.3757em;"><span class="pdf24_05 pdf24_06 pdf24_08" style="word-spacing:0.0083em;">.service-item { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:8.7617em;top:55.2557em;"><span class="pdf24_05 pdf24_06 pdf24_14" style="word-spacing:-0.0009em;">padding: 20px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:57.1257em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:59.0057em;"><span class="pdf24_05 pdf24_06 pdf24_43" style="word-spacing:0.0169em;">form { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:8.7617em;top:60.8774em;"><span class="pdf24_05 pdf24_06 pdf24_14" style="word-spacing:-0.0009em;">padding: 25px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:62.7574em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+				</div>
+			</div>
+		</div>
+		<div id="page_10" class="pdf24_ pdf24_02">
+			<div class="pdf24_view">
+				<div class="pdf24_03 pdf24_04">
+					<div class="pdf24_01" style="left:7.932em;top:4.6374em;"><span class="pdf24_05 pdf24_06 pdf24_25">input[type="text"], &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:6.519em;"><span class="pdf24_05 pdf24_06 pdf24_13">input[type="email"], &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:8.389em;"><span class="pdf24_05 pdf24_06 pdf24_29" style="word-spacing:0.0074em;">textarea { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:8.7617em;top:10.269em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:-0.0043em;">padding: 10px 12px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:12.139em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:14.019em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:-0.0085em;">button[type="submit"] { &nbsp;</span></div>
+					<div class="pdf24_01" style="left:8.7617em;top:15.889em;"><span class="pdf24_05 pdf24_06 pdf24_21" style="word-spacing:-0.0033em;">font-size: var(--font-size-base); &nbsp;</span></div>
+					<div class="pdf24_01" style="left:8.7617em;top:17.759em;"><span class="pdf24_05 pdf24_06 pdf24_10" style="word-spacing:-0.0043em;">padding: 12px 25px; &nbsp;</span></div>
+					<div class="pdf24_01" style="left:7.932em;top:19.6415em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+					<div class="pdf24_01" style="left:7.092em;top:21.5115em;"><span class="pdf24_05 pdf24_06 pdf24_15">}</span></div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
